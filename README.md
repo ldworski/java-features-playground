@@ -6,9 +6,13 @@ so the tests double as executable documentation.
 
 ## Features
 
-### Pattern matching (`pl.ldworski.patternmatching`)
+### Pattern matching
 
-### Virtual threads (`pl.ldworski.virtualthreads`)
+See [`PatternMatcher`](src/main/java/pl/ldworski/patternmatching/PatternMatcher.java).
+
+### Virtual threads
+
+See [`VirtualThreadsSpec`](src/test/groovy/pl/ldworski/virtualthreads/VirtualThreadsSpec.groovy).
 
 ### Other
 - **`java.lang.IO`** – simplified console I/O (`IO.println`)
